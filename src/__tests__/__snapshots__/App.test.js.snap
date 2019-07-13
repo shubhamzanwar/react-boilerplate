@@ -2,11 +2,6 @@
 
 exports[`the app component should render correctly 1`] = `
 <div>
-  <h1>
-    Welcome to gifted
-  </h1>
-  <p>
-    You'll see more content here soon!
-  </p>
+  Welcome to the app!
 </div>
 `;

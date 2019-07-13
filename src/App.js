@@ -1,11 +1,10 @@
 import React from "react";
-import './App.styles.css';
+import styles from './App.styles.css';
 
 const App = () => {
     return (
-        <div>
-            <h1>Welcome to gifted</h1>
-            <p>You'll see more content here soon!</p>
+        <div className={styles.app}>
+            Welcome to the app!
         </div>
     )
 };
